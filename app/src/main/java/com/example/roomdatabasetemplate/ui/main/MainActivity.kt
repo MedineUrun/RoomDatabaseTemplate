@@ -1,7 +1,8 @@
-package com.example.roomdatabasetemplate
+package com.example.roomdatabasetemplate.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.roomdatabasetemplate.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
